@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Precision Farming using IoT with Alert and Recommendation System
 
 ## Overview
@@ -163,3 +164,6 @@ RASHMITHA S
 CHINMAYI MOHAN
 YUKTHA R N
 Smart Precision Farming Project
+=======
+# iotproject-Agritech
+>>>>>>> 252ba8b0ed1d2b46b802915d7d3c982c79e90aa6
